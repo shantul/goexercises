@@ -20,4 +20,5 @@ func main() {
 	}
 
 	fmt.Println(gohan)
+	fmt.Println(gohan)
 }
